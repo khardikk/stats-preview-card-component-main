@@ -6,7 +6,7 @@
 
 body{
     background-color: hsl(233, 47%, 7%);
-   
+    color: white;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -20,6 +20,7 @@ body{
     width: 67rem;
     display: flex;
     border-radius: 10px;
+    margin-bottom: 50px;
 }
 
 .card-text{
@@ -120,6 +121,7 @@ h2{
         width: 100%;
         height: auto;
         flex-direction: column-reverse;
+        
     }
 
     .card-text {
